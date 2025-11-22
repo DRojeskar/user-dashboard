@@ -14,7 +14,10 @@ A responsive ReactJS dashboard to manage users. Built as part of the Techx Solut
    Install dependencies-npm install
    start the development server-npm start
 
-   ## 📋 Features
+
+   
+
+## 📋 Features
 - Responsive layout for desktop, tablet, and mobile
 - Fetch users from public API (`jsonplaceholder.typicode.com/users`)
 - Show loading and error states
@@ -25,7 +28,7 @@ A responsive ReactJS dashboard to manage users. Built as part of the Techx Solut
 - Reusable components (Button, Card, Modal)
 ---
 
-   ## 🛠 Tech Stack
+## 🛠 Tech Stack
 - React (Functional Components + Hooks)
 - Redux Toolkit
 - Axios
