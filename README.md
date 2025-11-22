@@ -29,5 +29,14 @@ A responsive ReactJS dashboard to manage users. Built as part of the Techx Solut
 - React (Functional Components + Hooks)
 - Redux Toolkit
 - Axios
+---
+
+## Approach
+-Created reusable components (Button, Card, Modal).
+-Managed global state with Redux Toolkit.
+-Implemented theme management using context.
+-Used Axios for API calls with error handling.
+-Added fallback static data from constants.js.
+
 - CSS Modules / Styled Components
 ---
