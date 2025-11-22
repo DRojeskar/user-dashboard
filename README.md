@@ -38,5 +38,4 @@ A responsive ReactJS dashboard to manage users. Built as part of the Techx Solut
 -Used Axios for API calls with error handling.
 -Added fallback static data from constants.js.
 
-- CSS Modules / Styled Components
----
+--
